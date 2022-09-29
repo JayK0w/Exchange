@@ -1,0 +1,5 @@
+1) who are you ?
+2) what do you do ?
+3) what do you want ?
+4) what do you have ?
+5) what do you need ?
